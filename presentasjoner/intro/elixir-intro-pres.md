@@ -86,11 +86,11 @@ Verden.si_hei
 
 ## Do-bi-do-bi-do!
 
-Du trenger *```do``* flere steder i Elixir enn i Ruby.
+Du trenger *``do``* flere steder i Elixir enn i Ruby.
 
 ## Fun fun fun!
 
-Det er ingen metoder, mkay?
+Det er ingen metoder, m'kay?
 
 
 ---
@@ -108,10 +108,10 @@ Det er ingen metoder, mkay?
 ## grunnleggende
 
 * [heiverden1.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/heiverden1.exs)
-* variabler1.exs
-* tekst1.exs
-* utput1.exs
-* tall1.exs
+* [variabler1.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/variables1.exs)
+* [tekst1.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/tekst1.exs)
+* [utput1.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/utput1.exs)
+* [tall1.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/tall1.exs)
 
 
 ---
@@ -152,17 +152,17 @@ IO.puts(String.upcase("Foo"))
 # Funksjoner
 ## Se kode
 
-* fun1.exs
-* fun2.exs
+* [fun1.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/fun1.exs)
+* [fun2.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/fun2.exs)
 
 ---
 
 # Flytkontroll
 ## Se kode
 
-* hvis1.exs
-* hvis2.exs
-* case1.exs
+* [hvis1.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/hvis1.exs)
+* [hvis2.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/hvis2.exs)
+* [case1.exs](https://github.com/kentdahl/nektar-nuby/blob/master/elixir-intro/kode/eksempler/case1.exs)
 
 
 
@@ -263,9 +263,6 @@ IO.puts(String.upcase("Foo"))
 * struct1.exs
 * struct2.exs
 
-
-
-
 ---
 
 # Større eksempler
@@ -283,6 +280,7 @@ IO.puts(String.upcase("Foo"))
 * Kommuniserer med meldinger
   * _"Postkasse"_
   * send / receive
+* Kan gjøre tusenvis eller millionvis av prosesser.
 
 ---
 
@@ -291,41 +289,32 @@ IO.puts(String.upcase("Foo"))
 * kjoleskap1.exs
 
 
+---
 
-* Funksjonelt
-  * Tilstand...
-  * "Oppsamler" - akkumulator-pattern
-* Atom (symbol)
-* List - head/tail - singly-linked
-* Tupler - 
-* Pattern matching
-* TCO
-* Rekursjon
+# På tampen...
+* Funksjonell tenking
+  * Ta med deg, og returner, tilstanden...
+  * _"Oppsamler"_ - akkumulator-pattern
 * Erlang funksjoner og biblioteker
-  * OTP
-* Macro
+  * *OTP* (_Open Telecom Platform_)
+* Makroer
+* Ingen `return` statement.
+
+---
 
 
-
-MINOR:
-* ingen `return` statement.
-* 
-
-
-# ... smaker som ...
+# ... smaker litt som ...
 
 * iex - irb
 * mix - bundler + rake
 * hex - gem
 * Phoenix - Rails
-* 
-
----
-
-
+* ecto - ActiveRecord
 
 
 ---
 
 # Takk for nå!
+
+* Kod i vei!
 
