@@ -1,5 +1,3 @@
-# hvis2.exs
-
 svar = String.downcase(String.strip(IO.gets("Liker du Elixir? [ja/nei]:")))
 # BEDRE: svar = IO.gets("Liker du Elixir? [ja/nei]:")  |> String.strip |> String.downcase
 
