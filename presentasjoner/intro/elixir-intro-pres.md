@@ -86,7 +86,24 @@ Verden.si_hei
 
 ## Do-bi-do-bi-do!
 
+--
+
+# Gjenta etter meg:
+
+## Do-bi-do-bi-do!
+
 Du trenger *``do``* flere steder i Elixir enn i Ruby.
+
+--
+
+
+# Gjenta etter meg:
+
+## Fun fun fun!
+
+--
+
+# Gjenta etter meg:
 
 ## Fun fun fun!
 
@@ -305,11 +322,11 @@ IO.puts(String.upcase("Foo"))
 
 # ... smaker litt som ...
 
-* iex - irb
-* mix - bundler + rake
-* hex - gem
-* Phoenix - Rails
-* ecto - ActiveRecord
+* iex   &ap;  irb
+* mix   &ap;  bundler + rake
+* hex   &ap;  gem
+* Phoenix &ap; Rails
+* ecto &ap; ActiveRecord
 
 
 ---
