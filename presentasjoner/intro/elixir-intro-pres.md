@@ -19,7 +19,7 @@ brew install elixir
 # Praktisk
 
 * Wifi: 
-  * Sixty guest
+  * ... guest
   * passord: ...
 * Kode eksempler: 
   * https://github.com/kentdahl/nektar-nuby
